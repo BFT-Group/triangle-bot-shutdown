@@ -11,4 +11,3 @@ Ruudie
 Baskoot
 ```
 
- Developed by: cdc | Goodbye!
