@@ -1,3 +1,4 @@
+# WHY ARE YOU HERE
 # Triangle bot is shutting down..
 ## Why?
 I haven't been working on it for a while and it's not really needed anymore.
